@@ -16,7 +16,7 @@ class ComicSerializer(serializers.ModelSerializer):
     class Meta:
         model = Comic
         fields = '__all__'
-        # fields = ('marvel_id', 'title', 'new_field')
+        # fields = ('marvel_id', 'title', 'description')
         read_only_fields = ('id',)
 
 

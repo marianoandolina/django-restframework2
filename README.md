@@ -79,5 +79,5 @@ Tenemos que estar en la carpeta que contiene el archivo *docker-compose.yml* y h
 # Consultas
 alumnos@inove.com.ar
 
-**** VIDEO DE REPASO EN TIEMPO 01:05 ****
+**** VIDEO DE REPASO EN TIEMPO 01:32 ****
 

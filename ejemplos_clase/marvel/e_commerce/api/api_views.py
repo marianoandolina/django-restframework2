@@ -69,7 +69,7 @@ class GetComicAPIView(ListAPIView):
     serializer_class = ComicSerializer
 
     # Equivale a --> permission_classes = (IsAdminUser & IsAuthenticated,)
-    permission_classes = (IsAuthenticated | IsAdminUser,)
+    permission_classes = []
     # Descomentar y mostrar en clases para ver las diferencias entre 
     # estos tipos de Authentication. Mostrar en Postman.
 
